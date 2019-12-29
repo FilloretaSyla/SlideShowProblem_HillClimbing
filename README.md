@@ -1,1 +1,1 @@
-# Implementation of Hill Climbing in SlideShow Problem
+ SlideShow Problem
